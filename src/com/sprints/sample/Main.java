@@ -13,7 +13,8 @@ public class Main {
 
                 System.out.println("Enter Second Number: "); //first commit
 
-                num2 = sc.nextInt(); // test2
+                num2 = sc.nextInt(); // first
+
 
                 sc.close();
                 sum = num1 + num2;
