@@ -11,7 +11,8 @@ public class Main {
                 System.out.println("Enter First Number: ");
                 num1 = sc.nextInt();
 
-                System.out.println("Enter Second Number: ");
+                System.out.println("Enter Second Number: "); //first commit
+
                 num2 = sc.nextInt();
 
                 sc.close();
