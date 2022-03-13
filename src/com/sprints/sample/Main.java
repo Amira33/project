@@ -2,7 +2,7 @@ package com.sprints.sample;
 import java.util.Scanner;
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {  // defination
 
 	// write your code here
 
